@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.31)
+project(Introduction_to_Programming_Using_CPP_Level_2)
+set(CMAKE_CXX_STANDARD 26)
