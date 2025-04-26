@@ -4,3 +4,4 @@
 2. [Libraries](src/_2_libraries)
 3. [Ternary Operator](src/_3_ternary_operator)
 4. [Ranged Loop](src/_4_ranged_loop)
+5. [Validate Number](src/_5_validate_number)
