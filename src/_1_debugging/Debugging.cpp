@@ -1,30 +1,35 @@
 #include <iostream>
 using namespace std;
 
-int MySum(int a, int b)
-{
-    int s = 0;
-    s = a + b;
-    return s;
+int sumTwoNumbers(
+    const int FIRST_NUMBER,
+    const int SECOND_NUMBER
+) {
+    int sum = 0;
+    sum = FIRST_NUMBER + SECOND_NUMBER;
+    return sum;
 }
-int main()
-{
-    int arr1[5] = { 200,100,50,25,30 };
-    int a, b, c;
-    a = 10;
-    b = 20;
-    a++;
-    ++b;
-    c = a + b;
-    cout << a << endl;
-    cout << b << endl;
-    cout << c << endl;
-    for (int i = 1; i <= 5; i++)
-    {
-        cout << i << endl;
-        a = a + a * i;
+
+int main() {
+    const int NUMBERS[5] = {200, 100, 50, 25, 30};
+    int firstNumber,
+        secondNumber,
+        thirdNumber;
+    firstNumber = 10;
+    secondNumber = 20;
+    firstNumber++;
+    ++secondNumber;
+    thirdNumber = firstNumber + secondNumber;
+    cout << firstNumber << endl;
+    cout << secondNumber << endl;
+    cout << thirdNumber << endl;
+    for (int index = 1; index <= 5; index++) {
+        cout << index << endl;
+        firstNumber = firstNumber + firstNumber * index;
     }
-    c = MySum(a, b);
-    cout << c;
-    return 0;
+    thirdNumber = sumTwoNumbers(
+        firstNumber,
+        secondNumber
+    );
+    cout << thirdNumber;
 }
