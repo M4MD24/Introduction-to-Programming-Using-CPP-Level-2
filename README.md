@@ -7,3 +7,4 @@
 5. [Validate Number](src/_5_validate_number)
 6. [Bitwise Operator](src/_6_bitwise_operator)
 7. [Declaration Vs Definition](src/_7_declaration_vs_definition)
+8. [Default Parameters](src/_8_default_parameters)
