@@ -11,4 +11,4 @@
 9. [Function Overloading](src/_9_function_overloading)
 10. [Call Stack and Call Hierarchy](src/_10_call_stack_and_call_hierarchy)
 11. [Recursion](src/_11_recursion)
-12. [Static variables](src/_12_static_variables)
+12. [Static Variables](src/_12_static_variables)
