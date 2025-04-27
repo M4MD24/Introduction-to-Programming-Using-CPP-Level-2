@@ -6,7 +6,7 @@
 4. [Ranged Loop](src/_4_ranged_loop)
 5. [Validate Number](src/_5_validate_number)
 6. [Bitwise Operator](src/_6_bitwise_operator)
-7. [Declaration Vs Definition](src/_7_declaration_vs_definition)
+7. [Declaration vs Definition](src/_7_declaration_vs_definition)
 8. [Default Parameters](src/_8_default_parameters)
 9. [Function Overloading](src/_9_function_overloading)
 10. [Call Stack and Call Hierarchy](src/_10_call_stack_and_call_hierarchy)
