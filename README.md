@@ -1,7 +1,7 @@
 # Introduction to Programming Using C++ Level 2
 
 1. [Debugging](src/_1_debugging)
-2. [Libraries](src/_2_libraries)
+2. [Custom Library](src/_2_custom_library)
 3. [Ternary Operator](src/_3_ternary_operator)
 4. [Ranged Loop](src/_4_ranged_loop)
 5. [Validate Number](src/_5_validate_number)
