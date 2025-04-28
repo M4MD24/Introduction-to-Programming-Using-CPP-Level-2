@@ -14,3 +14,4 @@
 12. [Static Variables](src/_12_static_variables)
 13. [Automatic Variables](src/_13_automatic_variables)
 14. [PrintF](src/_14_printf)
+15. [SetW Manipulator](src/_15_set_w_manipulator)
