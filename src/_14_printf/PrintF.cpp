@@ -1,4 +1,5 @@
-#include <cstdio>
+#include <iostream>
+using namespace std;
 
 int main() {
     // Integer
@@ -26,6 +27,12 @@ int main() {
     printf(
         "String: %s\n",
         name
+    );
+
+    string name2 = "Mohamed";
+    printf(
+        "String: %s\n",
+        name2.data()
     );
 
     // Character
