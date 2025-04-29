@@ -23,3 +23,5 @@
 21. [Vectors Part 2](src/_21_vectors_part_2)
 22. [Exception Handling](src/_22_exception_handling)
 23. [String Common Methods](src/_23_string_common_methods)
+24. [Files](src/_24_files)
+    1. [Write Data](src/_24_files/_24_1_write_data)
