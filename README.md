@@ -19,3 +19,4 @@
 17. [Vectors](src/_17_vectors)
 18. [Call by Value vs by Reference](src/_18_call_by_value_vs_by_reference)
 19. [Pointers](src/_19_pointers)
+20. [Memory Management: new and delete](src/_20_memory_management_new_and_delete)
