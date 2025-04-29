@@ -22,3 +22,4 @@
 20. [Memory Management: new and delete](src/_20_memory_management_new_and_delete)
 21. [Vectors Part 2](src/_21_vectors_part_2)
 22. [Exception Handling](src/_22_exception_handling)
+23. [String Common Methods](src/_23_string_common_methods)
