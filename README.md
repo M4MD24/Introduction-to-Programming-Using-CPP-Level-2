@@ -30,3 +30,6 @@
     4. [Load Data from File to Vector](src/_24_files/_24_4_load_data_from_file_to_vector)
     5. [Save Vector to File](src/_24_files/_24_5_save_vector_to_file)
     6. [Modify Record](src/_24_files/_24_6_modify_record)
+25. [DateTime](src/_25_date_time)
+    1. [Local/UTC Time](src/_25_date_time/_25_1_local_time)
+    2. [Structure](src/_25_date_time/_25_2_structure)
