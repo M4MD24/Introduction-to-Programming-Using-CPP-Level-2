@@ -12,14 +12,14 @@ void PrintFileContent(
         ios::in
     );
     if (file.is_open()) {
-        string Line;
+        string line;
         while (
             getline(
                 file,
-                Line
+                line
             )
         )
-            cout << Line << endl;
+            cout << line << endl;
         file.close();
     }
 }

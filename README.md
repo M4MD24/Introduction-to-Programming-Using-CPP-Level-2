@@ -27,3 +27,5 @@
     1. [Write Data](src/_24_files/_24_1_write_data)
     2. [Append Data](src/_24_files/_24_2_append_data)
     3. [Read Data](src/_24_files/_)
+    3. [Read Data](src/_24_files/_24_3_read_data)
+    4. [Load Data from File to Vector](src/_24_files/_24_4_load_data_from_file_to_vector)
