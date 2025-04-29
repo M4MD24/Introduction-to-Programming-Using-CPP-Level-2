@@ -26,3 +26,4 @@
 24. [Files](src/_24_files)
     1. [Write Data](src/_24_files/_24_1_write_data)
     2. [Append Data](src/_24_files/_24_2_append_data)
+    3. [Read Data](src/_24_files/_)
