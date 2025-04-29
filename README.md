@@ -32,3 +32,4 @@
     6. [Modify Record](src/_24_files/_24_6_modify_record)
 25. [DateTime](src/_25_date_time)
     1. [Local/UTC Time](src/_25_date_time/_25_1_local_time)
+    2. [Structure](src/_25_date_time/_25_2_structure)
