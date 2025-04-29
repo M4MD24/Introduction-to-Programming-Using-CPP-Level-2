@@ -29,3 +29,4 @@
     3. [Read Data](src/_24_files/_24_3_read_data)
     4. [Load Data from File to Vector](src/_24_files/_24_4_load_data_from_file_to_vector)
     5. [Save Vector to File](src/_24_files/_24_5_save_vector_to_file)
+    6. [Modify Record](src/_24_files/_24_6_modify_record)
